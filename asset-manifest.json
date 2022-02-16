@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/testone/static/js/main.d965ea29.chunk.js",
+    "main.js.map": "/testone/static/js/main.d965ea29.chunk.js.map",
+    "runtime-main.js": "/testone/static/js/runtime-main.91a60a95.js",
+    "runtime-main.js.map": "/testone/static/js/runtime-main.91a60a95.js.map",
+    "static/js/2.ead5315c.chunk.js": "/testone/static/js/2.ead5315c.chunk.js",
+    "static/js/2.ead5315c.chunk.js.map": "/testone/static/js/2.ead5315c.chunk.js.map",
+    "index.html": "/testone/index.html",
+    "static/js/2.ead5315c.chunk.js.LICENSE.txt": "/testone/static/js/2.ead5315c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91a60a95.js",
+    "static/js/2.ead5315c.chunk.js",
+    "static/js/main.d965ea29.chunk.js"
+  ]
+}
